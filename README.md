@@ -1,4 +1,5 @@
 # 🎵 BeatBox - Java Music Collaboration Tool
+![image](https://github.com/user-attachments/assets/6fa1e71b-aa5d-4111-b1b9-3be77438593d)
 
 ## 🚀 Introduction
 BeatBox is a Java-based music sequencer that allows users to create beats, play MIDI sounds, and share their beats over a network. This project uses **Swing** for UI, **MIDI** for sound generation, **Serialization** for saving/loading, and **Sockets** for network communication.
@@ -27,6 +28,7 @@ java BeatBox <YourName>
 - You can directly **pass your name** as a command-line argument (`java BeatBox YourName`).
 - If you don't provide a name, a **dialog box** will prompt you to enter your name.
 - Currently, the application is **set to localhost** for testing. If running on a network, update the IP address in the code.
+![image](https://github.com/user-attachments/assets/f3689fc2-6d8a-4c33-9eb4-5f93294bc903)
 
 ---
 
